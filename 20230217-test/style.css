@@ -1,0 +1,43 @@
+.font-inter400 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
+.font-inter700 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+}
+
+.font-inter900 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 900;
+}
+
+
+.font-karantina {
+  font-family: 'Karantina', cursive;
+}
+
+.bgcolor-blue {
+  background-color: #2196F3;
+}
+
+.bgcolor-black {
+  background-color: #333333;
+}
+
+.color-blue {
+  color: #2196F3;
+}
+
+.color-black {
+  color: #333333;
+}
+
+.color-white {
+  color: #FFFFFF;
+}
+
+.font-center {
+  text-align: center;
+}
